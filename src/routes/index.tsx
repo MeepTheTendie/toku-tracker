@@ -21,6 +21,12 @@ function TrackerPage() {
   const [activeTab, setActiveTab] = useState<"rider" | "sentai" | "metal">(
     "rider",
   );
+
+  const tabLabels = {
+    rider: "Kamen Rider",
+    sentai: "Super Sentai",
+    metal: "Metal Heroes",
+  };
   const router = useRouter();
 
   const stats = useMemo(() => {
@@ -48,21 +54,26 @@ function TrackerPage() {
   return (
     <div className="max-w-4xl mx-auto pb-20">
       <div className="mb-8">
-        <h1 className="text-2xl font-bold">Toku Tracker</h1>
+        <h1
+          className="text-3xl font-bold text-center tracking-wider"
+          style={{ fontFamily: '"Noto Sans JP", "M PLUS 1p", sans-serif' }}
+        >
+          Toku Tracker
+        </h1>
       </div>
 
-      <div className="flex gap-4 mb-6 border-b border-gray-800">
+      <div className="flex gap-4 mb-6 border-b border-gray-800 justify-center">
         {(["rider", "sentai", "metal"] as const).map((f) => (
           <button
             key={f}
             onClick={() => setActiveTab(f)}
-            className={`pb-2 px-4 capitalize ${
+            className={`pb-2 px-6 capitalize text-lg ${
               activeTab === f
                 ? "border-b-2 border-green-500 text-green-400"
-                : "text-gray-500"
+                : "text-gray-500 hover:text-gray-300"
             }`}
           >
-            {f}
+            {tabLabels[f]}
           </button>
         ))}
       </div>
