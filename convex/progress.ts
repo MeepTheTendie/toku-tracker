@@ -1,8 +1,6 @@
 import { queryGeneric, mutationGeneric } from "convex/server";
 import { v } from "convex/values";
 
-const USER_ID = "default-user";
-
 export const getProgress = queryGeneric({
   args: {},
   handler: async (ctx) => {
