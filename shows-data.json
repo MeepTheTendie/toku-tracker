@@ -1,0 +1,744 @@
+[
+  {
+    "id": "kamen-rider-zeztz--2025-",
+    "title": "Kamen Rider Zeztz (2025)",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 0
+  },
+  {
+    "id": "kamen-rider-gavv--2024-",
+    "title": "Kamen Rider Gavv (2024)",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 1
+  },
+  {
+    "id": "kamen-rider-gotchard",
+    "title": "Kamen Rider Gotchard",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 2
+  },
+  {
+    "id": "kamen-rider-geats",
+    "title": "Kamen Rider Geats",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 3
+  },
+  {
+    "id": "kamen-rider-revice",
+    "title": "Kamen Rider Revice",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 4
+  },
+  {
+    "id": "kamen-rider-saber",
+    "title": "Kamen Rider Saber",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 5
+  },
+  {
+    "id": "kamen-rider-zero-one",
+    "title": "Kamen Rider Zero-One",
+    "era": "Reiwa",
+    "franchise": "rider",
+    "order": 6
+  },
+  {
+    "id": "kamen-rider-zi-o",
+    "title": "Kamen Rider Zi-O",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 7
+  },
+  {
+    "id": "kamen-rider-build",
+    "title": "Kamen Rider Build",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 8
+  },
+  {
+    "id": "kamen-rider-ex-aid",
+    "title": "Kamen Rider Ex-Aid",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 9
+  },
+  {
+    "id": "kamen-rider-ghost",
+    "title": "Kamen Rider Ghost",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 10
+  },
+  {
+    "id": "kamen-rider-drive",
+    "title": "Kamen Rider Drive",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 11
+  },
+  {
+    "id": "kamen-rider-gaim",
+    "title": "Kamen Rider Gaim",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 12
+  },
+  {
+    "id": "kamen-rider-wizard",
+    "title": "Kamen Rider Wizard",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 13
+  },
+  {
+    "id": "kamen-rider-fourze",
+    "title": "Kamen Rider Fourze",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 14
+  },
+  {
+    "id": "kamen-rider-ooo",
+    "title": "Kamen Rider OOO",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 15
+  },
+  {
+    "id": "kamen-rider-w",
+    "title": "Kamen Rider W",
+    "era": "Heisei Phase 2",
+    "franchise": "rider",
+    "order": 16
+  },
+  {
+    "id": "kamen-rider-decade",
+    "title": "Kamen Rider Decade",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 17
+  },
+  {
+    "id": "kamen-rider-kiva",
+    "title": "Kamen Rider Kiva",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 18
+  },
+  {
+    "id": "kamen-rider-den-o",
+    "title": "Kamen Rider Den-O",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 19
+  },
+  {
+    "id": "kamen-rider-kabuto",
+    "title": "Kamen Rider Kabuto",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 20
+  },
+  {
+    "id": "kamen-rider-hibiki",
+    "title": "Kamen Rider Hibiki",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 21
+  },
+  {
+    "id": "kamen-rider-blade",
+    "title": "Kamen Rider Blade",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 22
+  },
+  {
+    "id": "kamen-rider-555--faiz-",
+    "title": "Kamen Rider 555 (Faiz)",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 23
+  },
+  {
+    "id": "kamen-rider-ryuki",
+    "title": "Kamen Rider Ryuki",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 24
+  },
+  {
+    "id": "kamen-rider-agito",
+    "title": "Kamen Rider Agito",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 25
+  },
+  {
+    "id": "kamen-rider-kuuga",
+    "title": "Kamen Rider Kuuga",
+    "era": "Heisei Phase 1",
+    "franchise": "rider",
+    "order": 26
+  },
+  {
+    "id": "kamen-rider-j",
+    "title": "Kamen Rider J",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 27
+  },
+  {
+    "id": "kamen-rider-zo",
+    "title": "Kamen Rider ZO",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 28
+  },
+  {
+    "id": "shin-kamen-rider-prologue",
+    "title": "Shin Kamen Rider Prologue",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 29
+  },
+  {
+    "id": "kamen-rider-black-rx",
+    "title": "Kamen Rider Black RX",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 30
+  },
+  {
+    "id": "kamen-rider-black",
+    "title": "Kamen Rider Black",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 31
+  },
+  {
+    "id": "kamen-rider-zx",
+    "title": "Kamen Rider ZX",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 32
+  },
+  {
+    "id": "kamen-rider-super-1",
+    "title": "Kamen Rider Super-1",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 33
+  },
+  {
+    "id": "skyrider",
+    "title": "Skyrider",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 34
+  },
+  {
+    "id": "kamen-rider-stronger",
+    "title": "Kamen Rider Stronger",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 35
+  },
+  {
+    "id": "kamen-rider-amazon",
+    "title": "Kamen Rider Amazon",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 36
+  },
+  {
+    "id": "kamen-rider-x",
+    "title": "Kamen Rider X",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 37
+  },
+  {
+    "id": "kamen-rider-v3",
+    "title": "Kamen Rider V3",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 38
+  },
+  {
+    "id": "kamen-rider--original-",
+    "title": "Kamen Rider (Original)",
+    "era": "Showa",
+    "franchise": "rider",
+    "order": 39
+  },
+  {
+    "id": "no-1-sentai-gozyuger--2025-",
+    "title": "No.1 Sentai Gozyuger (2025)",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 40
+  },
+  {
+    "id": "bakuage-sentai-boonboomger",
+    "title": "Bakuage Sentai Boonboomger",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 41
+  },
+  {
+    "id": "ohsama-sentai-king-ohger",
+    "title": "Ohsama Sentai King-Ohger",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 42
+  },
+  {
+    "id": "avataro-sentai-donbrothers",
+    "title": "Avataro Sentai Donbrothers",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 43
+  },
+  {
+    "id": "kikai-sentai-zenkaiger",
+    "title": "Kikai Sentai Zenkaiger",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 44
+  },
+  {
+    "id": "mashin-sentai-kiramager",
+    "title": "Mashin Sentai Kiramager",
+    "era": "Reiwa",
+    "franchise": "sentai",
+    "order": 45
+  },
+  {
+    "id": "kishiryu-sentai-ryusoulger",
+    "title": "Kishiryu Sentai Ryusoulger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 46
+  },
+  {
+    "id": "lupinranger-vs-patranger",
+    "title": "Lupinranger vs Patranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 47
+  },
+  {
+    "id": "uchu-sentai-kyuranger",
+    "title": "Uchu Sentai Kyuranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 48
+  },
+  {
+    "id": "doubutsu-sentai-zyuohger",
+    "title": "Doubutsu Sentai Zyuohger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 49
+  },
+  {
+    "id": "shuriken-sentai-ninninger",
+    "title": "Shuriken Sentai Ninninger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 50
+  },
+  {
+    "id": "ressha-sentai-toqger",
+    "title": "Ressha Sentai ToQger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 51
+  },
+  {
+    "id": "zyuden-sentai-kyoryuger",
+    "title": "Zyuden Sentai Kyoryuger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 52
+  },
+  {
+    "id": "tokumei-sentai-go-busters",
+    "title": "Tokumei Sentai Go-Busters",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 53
+  },
+  {
+    "id": "kaizoku-sentai-gokaiger",
+    "title": "Kaizoku Sentai Gokaiger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 54
+  },
+  {
+    "id": "tensou-sentai-goseiger",
+    "title": "Tensou Sentai Goseiger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 55
+  },
+  {
+    "id": "samurai-sentai-shinkenger",
+    "title": "Samurai Sentai Shinkenger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 56
+  },
+  {
+    "id": "engine-sentai-go-onger",
+    "title": "Engine Sentai Go-onger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 57
+  },
+  {
+    "id": "juken-sentai-gekiranger",
+    "title": "Juken Sentai Gekiranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 58
+  },
+  {
+    "id": "gogo-sentai-boukenger",
+    "title": "GoGo Sentai Boukenger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 59
+  },
+  {
+    "id": "mahou-sentai-magiranger",
+    "title": "Mahou Sentai Magiranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 60
+  },
+  {
+    "id": "tokusou-sentai-dekaranger",
+    "title": "Tokusou Sentai Dekaranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 61
+  },
+  {
+    "id": "bakuryu-sentai-abaranger",
+    "title": "Bakuryu Sentai Abaranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 62
+  },
+  {
+    "id": "ninpuu-sentai-hurricaneger",
+    "title": "Ninpuu Sentai Hurricaneger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 63
+  },
+  {
+    "id": "hyakujuu-sentai-gaoranger",
+    "title": "Hyakujuu Sentai Gaoranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 64
+  },
+  {
+    "id": "mirai-sentai-timeranger",
+    "title": "Mirai Sentai Timeranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 65
+  },
+  {
+    "id": "kyukyu-sentai-gogofive",
+    "title": "Kyukyu Sentai GoGoFive",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 66
+  },
+  {
+    "id": "seijuu-sentai-gingaman",
+    "title": "Seijuu Sentai Gingaman",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 67
+  },
+  {
+    "id": "denji-sentai-megaranger",
+    "title": "Denji Sentai Megaranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 68
+  },
+  {
+    "id": "gekisou-sentai-carranger",
+    "title": "Gekisou Sentai Carranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 69
+  },
+  {
+    "id": "chouriki-sentai-ohranger",
+    "title": "Chouriki Sentai Ohranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 70
+  },
+  {
+    "id": "ninja-sentai-kakuranger",
+    "title": "Ninja Sentai Kakuranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 71
+  },
+  {
+    "id": "gosei-sentai-dairanger",
+    "title": "Gosei Sentai Dairanger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 72
+  },
+  {
+    "id": "kyoryu-sentai-zyuranger",
+    "title": "Kyoryu Sentai Zyuranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 73
+  },
+  {
+    "id": "choujin-sentai-jetman",
+    "title": "Choujin Sentai Jetman",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 74
+  },
+  {
+    "id": "chikyu-sentai-fiveman",
+    "title": "Chikyu Sentai Fiveman",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 75
+  },
+  {
+    "id": "kousoku-sentai-turboranger",
+    "title": "Kousoku Sentai Turboranger",
+    "era": "Heisei",
+    "franchise": "sentai",
+    "order": 76
+  },
+  {
+    "id": "choujuu-sentai-liveman",
+    "title": "Choujuu Sentai Liveman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 77
+  },
+  {
+    "id": "hikari-sentai-maskman",
+    "title": "Hikari Sentai Maskman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 78
+  },
+  {
+    "id": "choushinsei-flashman",
+    "title": "Choushinsei Flashman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 79
+  },
+  {
+    "id": "dengeki-sentai-changeman",
+    "title": "Dengeki Sentai Changeman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 80
+  },
+  {
+    "id": "choudenshi-bioman",
+    "title": "Choudenshi Bioman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 81
+  },
+  {
+    "id": "kagaku-sentai-dynaman",
+    "title": "Kagaku Sentai Dynaman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 82
+  },
+  {
+    "id": "dai-sentai-goggle-v",
+    "title": "Dai Sentai Goggle-V",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 83
+  },
+  {
+    "id": "taiyo-sentai-sun-vulcan",
+    "title": "Taiyo Sentai Sun Vulcan",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 84
+  },
+  {
+    "id": "denshi-sentai-denziman",
+    "title": "Denshi Sentai Denziman",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 85
+  },
+  {
+    "id": "battle-fever-j",
+    "title": "Battle Fever J",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 86
+  },
+  {
+    "id": "j-a-k-q--dengekitai",
+    "title": "J.A.K.Q. Dengekitai",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 87
+  },
+  {
+    "id": "himitsu-sentai-gorenger",
+    "title": "Himitsu Sentai Gorenger",
+    "era": "Showa",
+    "franchise": "sentai",
+    "order": 88
+  },
+  {
+    "id": "tetsuwan-tantei-robotack",
+    "title": "Tetsuwan Tantei Robotack",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 89
+  },
+  {
+    "id": "b-robo-kabutack",
+    "title": "B-Robo Kabutack",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 90
+  },
+  {
+    "id": "b-fighter-kabuto",
+    "title": "B-Fighter Kabuto",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 91
+  },
+  {
+    "id": "juukou-b-fighter",
+    "title": "Juukou B-Fighter",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 92
+  },
+  {
+    "id": "blue-swat",
+    "title": "Blue Swat",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 93
+  },
+  {
+    "id": "janperson",
+    "title": "Janperson",
+    "era": "90s",
+    "franchise": "metal",
+    "order": 94
+  },
+  {
+    "id": "exceedraft",
+    "title": "Exceedraft",
+    "era": "Rescue Police",
+    "franchise": "metal",
+    "order": 95
+  },
+  {
+    "id": "solbrain",
+    "title": "Solbrain",
+    "era": "Rescue Police",
+    "franchise": "metal",
+    "order": 96
+  },
+  {
+    "id": "winspector",
+    "title": "Winspector",
+    "era": "Rescue Police",
+    "franchise": "metal",
+    "order": 97
+  },
+  {
+    "id": "mobile-cop-jiban",
+    "title": "Mobile Cop Jiban",
+    "era": "80s",
+    "franchise": "metal",
+    "order": 98
+  },
+  {
+    "id": "sekai-ninja-sen-jiraiya",
+    "title": "Sekai Ninja Sen Jiraiya",
+    "era": "80s",
+    "franchise": "metal",
+    "order": 99
+  },
+  {
+    "id": "choujinki-metalder",
+    "title": "Choujinki Metalder",
+    "era": "80s",
+    "franchise": "metal",
+    "order": 100
+  },
+  {
+    "id": "spielban",
+    "title": "Spielban",
+    "era": "80s",
+    "franchise": "metal",
+    "order": 101
+  },
+  {
+    "id": "juspion",
+    "title": "Juspion",
+    "era": "80s",
+    "franchise": "metal",
+    "order": 102
+  },
+  {
+    "id": "shaider",
+    "title": "Shaider",
+    "era": "Space Sheriff",
+    "franchise": "metal",
+    "order": 103
+  },
+  {
+    "id": "sharivan",
+    "title": "Sharivan",
+    "era": "Space Sheriff",
+    "franchise": "metal",
+    "order": 104
+  },
+  {
+    "id": "gavan",
+    "title": "Gavan",
+    "era": "Space Sheriff",
+    "franchise": "metal",
+    "order": 105
+  }
+]

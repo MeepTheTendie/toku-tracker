@@ -1,13 +1,22 @@
-import { createRootRoute, Outlet } from '@tanstack/react-router'
-// import { TanStackRouterDevtools } from '@tanstack/router-devtools' // Optional
+import { Outlet, createRootRoute } from '@tanstack/react-router'
+import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
+import { TanStackDevtools } from '@tanstack/react-devtools'
 
 export const Route = createRootRoute({
   component: () => (
     <>
-      <div className="min-h-screen p-4">
-        <Outlet />
-      </div>
-      {/* <TanStackRouterDevtools /> */}
+      <Outlet />
+      <TanStackDevtools
+        config={{
+          position: 'bottom-right',
+        }}
+        plugins={[
+          {
+            name: 'TanStack Router',
+            render: <TanStackRouterDevtoolsPanel />,
+          },
+        ]}
+      />
     </>
   ),
 })
