@@ -6,6 +6,9 @@ import { Check } from "lucide-react";
 
 export const Route = createFileRoute("/")({
   loader: async () => {
+    if (!convex) {
+      return { shows: [], progress: {} };
+    }
     const shows = await convex.query(api.shows.getAllShows);
     const progress = await convex.query(api.progress.getProgress);
     return { shows, progress };
@@ -92,6 +95,7 @@ function TrackerPage() {
                   <button
                     key={show.id}
                     onClick={async () => {
+                      if (!convex) return;
                       await convex.mutation(api.progress.toggleShow, {
                         showId: show.id,
                         watched: !isWatched,
